@@ -1,0 +1,33 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+Packages/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Misc
+*.moved-aside
+*.ipa
+*.xcuserdatad
+
+# macOS
+*.DS_Store
+
+# App specific
+Project1.xcworkspace/
